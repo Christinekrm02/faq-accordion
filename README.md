@@ -1,3 +1,3 @@
 # faq-accordion
-<h1>QA Dropdowns </h1>
+<h3>QA Dropdowns </h3>
 https://repl.it/join/pbpxrvae-christinekrm02
